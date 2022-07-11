@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 ![resim](https://i.hizliresim.com/lfafedb.png)
 
 ## Installation
-----
+
 
 ```
 get clone https://github.com/cagricoban/kodluyoruzilkrepo.git
